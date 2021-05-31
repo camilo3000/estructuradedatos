@@ -16,7 +16,7 @@ public class JavaApplication29 {
      */
     public static void main(String[] args) {
         System.out.println("Taller de conexion netbeans y git");
-        system.out.println("Version 2");
+        System.out.println("Version 2");
     }
     
 }
